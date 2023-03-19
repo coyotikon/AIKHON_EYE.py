@@ -1,5 +1,5 @@
 # AIKHON_EYE.py
-projeto que oeguei como exemplo de :  HA3MRX
+projeto que peguei como exemplo de :  HA3MRX
  fiz altereções.
 
 
